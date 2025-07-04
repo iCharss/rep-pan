@@ -1,0 +1,7 @@
+{
+    "require": {
+        "flightphp/core": "^3.15",
+        "mercadopago/dx-php": "3.1.0",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

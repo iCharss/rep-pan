@@ -1,0 +1,320 @@
+[16-Apr-2025 15:47:49 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 15:48:50 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 15:48:51 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 16:06:51 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 16:41:51 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:07:32 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:08:33 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:08:34 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:25:27 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:29:49 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:30:50 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:30:51 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:50:19 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 19:54:49 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367004327","topic":"merchant_order"}
+[16-Apr-2025 19:54:49 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367004327","topic":"merchant_order"}
+[16-Apr-2025 19:54:49 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T15:54:48.525-04:00","id":"30367004327","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 19:54:49 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108204297517"},"date_created":"2025-04-16T19:54:48Z","id":120593183763,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 19:54:49 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 31
+[16-Apr-2025 19:54:49 UTC] Notificación recibida: {"resource":"108204297517","topic":"payment"}
+[16-Apr-2025 19:54:50 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367004327","topic":"merchant_order"}
+[16-Apr-2025 19:54:50 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T15:54:48.525-04:00","id":"30367004327","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 19:54:50 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367004327","topic":"merchant_order"}
+[16-Apr-2025 19:54:51 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367004327","topic":"merchant_order"}
+[16-Apr-2025 19:55:29 UTC] Notificación recibida: {"action":"payment.updated","api_version":"v1","data":{"id":"123456"},"date_created":"2021-11-01T02:02:02Z","id":"123456","live_mode":false,"type":"payment","user_id":203442816}
+[16-Apr-2025 19:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 31
+[16-Apr-2025 19:55:50 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108204297517"},"date_created":"2025-04-16T19:54:48Z","id":120593290289,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 19:55:50 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 31
+[16-Apr-2025 19:55:50 UTC] Notificación recibida: {"resource":"108204297517","topic":"payment"}
+[16-Apr-2025 19:55:50 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T15:54:48.525-04:00","id":"30367004327","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 19:55:51 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108204297517"},"date_created":"2025-04-16T19:54:48Z","id":120593255677,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 19:55:51 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 31
+[16-Apr-2025 19:55:51 UTC] Notificación recibida: {"resource":"108204297517","topic":"payment"}
+[16-Apr-2025 19:55:51 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T15:54:48.525-04:00","id":"30367004327","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:00:50 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30386104326","topic":"merchant_order"}
+[16-Apr-2025 20:00:56 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108635382420"},"date_created":"2025-04-16T19:07:31Z","id":120659944344,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 31
+[16-Apr-2025 20:00:59 UTC] Notificación recibida: {"resource":"108635382420","topic":"payment"}
+[16-Apr-2025 20:01:07 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T15:07:30.770-04:00","id":"30386104326","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:08:23 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 20:08:23 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T16:08:22.845-04:00","id":"30387643052","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 20:08:24 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108641435994"},"date_created":"2025-04-16T20:08:23Z","id":120593550503,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:08:24 UTC] Notificación recibida: {"resource":"108641435994","topic":"payment"}
+[16-Apr-2025 20:08:24 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 20:08:24 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T16:08:22.845-04:00","id":"30387643052","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 20:08:24 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 20:08:24 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:08:22.845-04:00","id":"30387643052","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:08:25 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 20:08:25 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:08:22.845-04:00","id":"30387643052","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:09:24 UTC] Notificación recibida: {"resource":"108641435994","topic":"payment"}
+[16-Apr-2025 20:09:24 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108641435994"},"date_created":"2025-04-16T20:08:23Z","id":120593606705,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:09:25 UTC] Notificación recibida: {"resource":"108641435994","topic":"payment"}
+[16-Apr-2025 20:09:25 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108641435994"},"date_created":"2025-04-16T20:08:23Z","id":120660123298,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:10:54 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367004327","topic":"merchant_order"}
+[16-Apr-2025 20:15:46 UTC] Notificación recibida: {"resource":"108204297517","topic":"payment"}
+[16-Apr-2025 20:15:54 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T15:54:48.525-04:00","id":"30367004327","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:16:38 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108204297517"},"date_created":"2025-04-16T19:54:48Z","id":120593761599,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:18:00 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367641093","topic":"merchant_order"}
+[16-Apr-2025 20:18:01 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T16:18:00.451-04:00","id":"30367641093","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 20:18:01 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367641093","topic":"merchant_order"}
+[16-Apr-2025 20:18:01 UTC] Notificación recibida: {"resource":"108206801563","topic":"payment"}
+[16-Apr-2025 20:18:01 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108206801563"},"date_created":"2025-04-16T20:18:00Z","id":120660334230,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:18:01 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T16:18:00.451-04:00","id":"30367641093","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 20:18:01 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367641093","topic":"merchant_order"}
+[16-Apr-2025 20:18:02 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367641093","topic":"merchant_order"}
+[16-Apr-2025 20:18:02 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:18:00.451-04:00","id":"30367641093","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:18:02 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367641093","topic":"merchant_order"}
+[16-Apr-2025 20:18:03 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:18:00.451-04:00","id":"30367641093","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:19:02 UTC] Notificación recibida: {"resource":"108206801563","topic":"payment"}
+[16-Apr-2025 20:19:02 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108206801563"},"date_created":"2025-04-16T20:18:00Z","id":120593820921,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:19:03 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108206801563"},"date_created":"2025-04-16T20:18:00Z","id":120660337496,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:19:03 UTC] Notificación recibida: {"resource":"108206801563","topic":"payment"}
+[16-Apr-2025 20:25:12 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108641435994"},"date_created":"2025-04-16T20:08:23Z","id":120593887491,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:25:13 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 20:26:20 UTC] Notificación recibida: {"resource":"108637511640","topic":"payment"}
+[16-Apr-2025 20:26:30 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T15:29:47.659-04:00","id":"30366376709","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:26:35 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 20:26:36 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:08:22.845-04:00","id":"30387643052","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:26:38 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108637511640"},"date_created":"2025-04-16T19:29:47Z","id":120593994967,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:26:45 UTC] Notificación recibida: {"resource":"108641435994","topic":"payment"}
+[16-Apr-2025 20:26:50 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30366376709","topic":"merchant_order"}
+[16-Apr-2025 20:35:33 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108206801563"},"date_created":"2025-04-16T20:18:00Z","id":120594186019,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:35:48 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:18:00.451-04:00","id":"30367641093","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:35:58 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367641093","topic":"merchant_order"}
+[16-Apr-2025 20:36:46 UTC] Notificación recibida: {"resource":"108206801563","topic":"payment"}
+[16-Apr-2025 20:39:39 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30368230747","topic":"merchant_order"}
+[16-Apr-2025 20:39:39 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108209205537"},"date_created":"2025-04-16T20:39:39Z","id":120594169807,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:39:39 UTC] Notificación recibida: {"resource":"108209205537","topic":"payment"}
+[16-Apr-2025 20:39:39 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T16:39:38.728-04:00","id":"30368230747","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 20:39:39 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30368230747","topic":"merchant_order"}
+[16-Apr-2025 20:39:40 UTC] Notificación recibida: {"action":"create","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"opened"},"date_created":"2025-04-16T16:39:38.728-04:00","id":"30368230747","live_mode":true,"status":"opened","type":"topic_merchant_order_wh","user_id":203442816,"version":0}
+[16-Apr-2025 20:39:40 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30368230747","topic":"merchant_order"}
+[16-Apr-2025 20:40:40 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108209205537"},"date_created":"2025-04-16T20:39:39Z","id":120594308381,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:40:40 UTC] Notificación recibida: {"resource":"108209205537","topic":"payment"}
+[16-Apr-2025 20:40:41 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108209205537"},"date_created":"2025-04-16T20:39:39Z","id":120660837112,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:40:41 UTC] Notificación recibida: {"resource":"108209205537","topic":"payment"}
+[16-Apr-2025 20:40:42 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30368230747","topic":"merchant_order"}
+[16-Apr-2025 20:40:42 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:39:38.728-04:00","id":"30368230747","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:40:42 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30368230747","topic":"merchant_order"}
+[16-Apr-2025 20:40:42 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:39:38.728-04:00","id":"30368230747","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:45:33 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367004327","topic":"merchant_order"}
+[16-Apr-2025 20:51:08 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108204297517"},"date_created":"2025-04-16T19:54:48Z","id":120594545121,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 20:51:52 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T15:54:48.525-04:00","id":"30367004327","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 20:51:53 UTC] Notificación recibida: {"resource":"108204297517","topic":"payment"}
+[16-Apr-2025 21:01:04 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 21:01:06 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30387643052","topic":"merchant_order"}
+[16-Apr-2025 21:01:12 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108641435994"},"date_created":"2025-04-16T20:08:23Z","id":120594699729,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 21:01:17 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:08:22.845-04:00","id":"30387643052","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 21:01:37 UTC] Notificación recibida: {"resource":"108641435994","topic":"payment"}
+[16-Apr-2025 21:01:49 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:39:38.728-04:00","id":"30368230747","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 21:01:49 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30368230747","topic":"merchant_order"}
+[16-Apr-2025 21:02:13 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108209205537"},"date_created":"2025-04-16T20:39:39Z","id":120661374294,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 21:02:15 UTC] Notificación recibida: {"resource":"108209205537","topic":"payment"}
+[16-Apr-2025 21:11:02 UTC] Notificación recibida: {"resource":"108206801563","topic":"payment"}
+[16-Apr-2025 21:11:08 UTC] Notificación recibida: {"resource":"https://api.mercadolibre.com/merchant_orders/30367641093","topic":"merchant_order"}
+[16-Apr-2025 21:11:27 UTC] Notificación recibida: {"action":"payment.created","api_version":"v1","data":{"id":"108206801563"},"date_created":"2025-04-16T20:18:00Z","id":120595033665,"live_mode":true,"type":"payment","user_id":"203442816"}
+[16-Apr-2025 21:11:30 UTC] Notificación recibida: {"action":"update","application_id":"","data":{"currency_id":"","marketplace":"NONE","status":"closed"},"date_created":"2025-04-16T16:18:00.451-04:00","id":"30367641093","live_mode":true,"status":"closed","type":"topic_merchant_order_wh","user_id":203442816,"version":1}
+[16-Apr-2025 21:36:20 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:32:32 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:33:33 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:33:34 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:43:02 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:44:02 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:44:03 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:47:00 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 22:51:43 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 23:00:52 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 23:08:49 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 23:09:49 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 23:09:50 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 23:26:20 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 23:26:31 UTC] Error en webhook: Api error. Check response for details
+[16-Apr-2025 23:36:03 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 00:02:20 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 02:05:46 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 02:31:22 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 02:56:02 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 03:06:33 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 03:16:09 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 03:41:05 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:07:14 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:08:15 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:08:16 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:10:39 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:11:40 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:11:41 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:25:55 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 04:31:59 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 05:00:30 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 05:05:17 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 05:30:34 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 05:40:45 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 06:05:51 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 11:05:43 UTC] Error en webhook: Api error. Check response for details
+[17-Apr-2025 11:11:37 UTC] Error en webhook: Api error. Check response for details
+[18-Apr-2025 22:51:30 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 02:11:01 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 02:36:27 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 03:01:29 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 03:10:56 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 03:21:18 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 03:45:55 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 05:35:55 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 05:45:40 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 06:11:47 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 11:10:38 UTC] Error en webhook: Api error. Check response for details
+[19-Apr-2025 11:15:41 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 14:45:21 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 14:46:22 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 14:46:23 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 14:48:45 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 14:49:46 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 14:49:47 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 14:58:09 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 15:05:22 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 15:05:37 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 15:10:30 UTC] Error en webhook: Api error. Check response for details
+[21-Apr-2025 15:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:32:55 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:32:55 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:32:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:56 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:35:54 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:41:30 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:41:59 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:41:59 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:42:05 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[21-Apr-2025 15:42:10 UTC] PHP Fatal error:  Uncaught Error: Class "MercadoPagoConfig" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 6
+[23-Apr-2025 16:38:33 UTC] PHP Warning:  require_once(vendor/autoload.php): Failed to open stream: No such file or directory in /home/u307785954/domains/reppan.com.ar/public_html/public/get_token.php on line 2
+[23-Apr-2025 16:38:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u307785954/domains/reppan.com.ar/public_html/public/get_token.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/get_token.php on line 2
+[23-Apr-2025 16:39:25 UTC] PHP Fatal error:  Uncaught Error: Class "Google\Client" not found in /home/u307785954/domains/reppan.com.ar/public_html/public/get_token.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u307785954/domains/reppan.com.ar/public_html/public/get_token.php on line 7
+[23-Apr-2025 19:50:02 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:50:03 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:50:03 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:50:03 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:50:03 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:50:03 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:03 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
+[23-Apr-2025 19:51:04 UTC] PHP Parse error:  syntax error, unexpected token "catch" in /home/u307785954/domains/reppan.com.ar/public_html/public/notification.php on line 234
