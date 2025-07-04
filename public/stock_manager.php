@@ -82,8 +82,8 @@ function updateStock($pdo, $cart) {
             $mail->isSMTP();
             $mail->Host = 'smtp.hostinger.com';
             $mail->SMTPAuth = true;
-            $mail->Username = '';
-            $mail->Password = ''; 
+            $mail->Username = ' ';
+            $mail->Password = ' '; 
             $mail->SMTPSecure = PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS;
             $mail->Port = 465;
             
