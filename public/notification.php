@@ -19,7 +19,7 @@ use MercadoPago\MercadoPagoConfig;
 use MercadoPago\Exceptions\MPApiException;
 
 // Configurar credenciales
-MercadoPagoConfig::setAccessToken("APP_USR-5289074047708329-041518-c0ad83e5ae0b975fd2bea513b7a00113-203442816");
+MercadoPagoConfig::setAccessToken(" ");
 
 // Verificar método POST
 if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
