@@ -82,8 +82,8 @@ function updateStock($pdo, $cart) {
             $mail->isSMTP();
             $mail->Host = 'smtp.hostinger.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'no-repply@reppan.com.ar';
-            $mail->Password = 'Rep.pan2020'; 
+            $mail->Username = '';
+            $mail->Password = ''; 
             $mail->SMTPSecure = PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS;
             $mail->Port = 465;
             
