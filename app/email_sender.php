@@ -16,8 +16,8 @@ function sendEmails($compra, $cart) {
         $mail->isSMTP();
         $mail->Host = 'smtp.hostinger.com'; // Servidor SMTP de Hostinger
         $mail->SMTPAuth = true;
-        $mail->Username = 'no-repply@reppan.com.ar';
-        $mail->Password = 'Rep.pan2020'; 
+        $mail->Username = '';
+        $mail->Password = ''; 
         $mail->SMTPSecure = PHPMailer\PHPMailer\PHPMailer::ENCRYPTION_SMTPS; // SSL
         $mail->Port = 465; 
 
